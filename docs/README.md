@@ -28,5 +28,5 @@ Quality assurance is embedded through reviews, acceptance criteria, deployment v
 
 - [Release and Deployment](octoacme-release-and-deployment.md)
 
-- [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Retrospective and Continuous Improvement] octoacme-retrospective-and-continuous-improvement.md
  
